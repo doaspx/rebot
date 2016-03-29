@@ -1,0 +1,31 @@
+{
+  "name": "rebot",
+  "version": "0.1.5",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doaspx/rebot.git"
+  },
+  "keywords": [
+    "wechat",
+    "weixin",
+    "robot"
+  ],
+  "author": "doaspx",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/doaspx/rebot/issues"
+  },
+  "homepage": "https://github.com/doaspx/rebot#readme",
+  "dependencies": {
+    "request": "^2.67.0",
+    "winston": "^2.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
